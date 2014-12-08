@@ -10,10 +10,17 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ---
 
-## Meetup 1 (content to be decided)
+## Meetup 1 (Jakub Konecki on Event Sourced Grains in Orleans)
 
 When: Thu, Dec 18, 12:00 PM - 1:00 PM
 
 Where: [Google Hangout](https://plus.google.com/events/cprijioqudo73bmsc5thgu0rlo4)
+
+(Informal) Agenda:
+
+* Quick introduction to the group
+* Talk from Jakub
+* Discussion
+* Agree next meetup and topic 
 
 ---
