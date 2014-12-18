@@ -7,6 +7,11 @@ Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) usi
 Meetups will be over Google Hangouts, everyone is invited to participate.
 
 
+---
+
+## Meetup 2: Yevhen Bobrov on Orleans.Bus
+
+When: Jan 2015?
 
 ---
 
