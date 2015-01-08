@@ -9,9 +9,19 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ---
 
-## Meetup 2: Yevhen Bobrov on Orleans.Bus
+## Meetup 2: Sergey and team do a Q&A and talk us through the Orleans roadmap﻿
 
-When: Jan 2015?
+When: Mon, 12th January 2015, 19:00 - 20:00 GMT (UTC)
+
+Where: [Google Hangout](https://plus.google.com/events/c5bgh7gpidg214t000m37gkoaf0)
+
+(Informal) Agenda:
+
+* Quick introduction to the group
+* Orleans Roadmap
+* Orleans Q&A [some questions are here](https://github.com/OrleansContrib/meetups/issues/1#issuecomment-67989956)
+* Discussion
+* Agree next meetup and topic 
 
 ---
 
