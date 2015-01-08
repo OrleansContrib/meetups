@@ -9,7 +9,7 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ---
 
-## Meetup 2: Sergey and team do a Q&A and talk us through the Orleans roadmap﻿
+## Meetup 2: Orleans team live Q&A and roadmap
 
 When: Mon, 12th January 2015, 19:00 - 20:00 GMT (UTC)
 
