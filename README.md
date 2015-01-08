@@ -19,7 +19,7 @@ Where: [Google Hangout](https://plus.google.com/events/c5bgh7gpidg214t000m37gkoa
 
 * Quick introduction to the group
 * Orleans Roadmap
-* Orleans Q&A [some questions are here](https://github.com/OrleansContrib/meetups/issues/1#issuecomment-67989956)
+* Orleans Q&A ([some questions are here](https://github.com/OrleansContrib/meetups/issues/1#issuecomment-67989956))
 * Discussion
 * Agree next meetup and topic 
 
