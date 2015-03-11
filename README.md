@@ -13,7 +13,7 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 When: Fri, 6th March 2015, 19:00 - 20:00 GMT (UTC)
 
-Where: [Google Hangout](https://plus.google.com/events/cbr9kvk9d91k89ihgq6s197vm8s)
+__Watch the [Google Hangout](https://www.youtube.com/watch?v=07Up88bpl20)__
 
 ---
 
