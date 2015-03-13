@@ -9,6 +9,14 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ---
 
+## Meetup 4: [Reuben Bond](https://github.com/ReubenBond) on using Orleans at FreeBay
+
+When: Fri, 10th April 2015, 19:00 - 20:00 GMT
+
+Where: [Google Hangout](https://plus.google.com/events/c9ptraoi1ulg2ug9n71pabsraes)
+
+---
+
 ## Meetup 3: [Yevhen Bobrov](https://github.com/yevhen) on a Uniform API for Orleans
 
 When: Fri, 6th March 2015, 19:00 - 20:00 GMT (UTC)
