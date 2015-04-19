@@ -2,7 +2,9 @@
 
 A repository to organise virtual meetups to discuss Orleans and other distributed systems on .NET.
 
-Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) using the GitHub issues, or [join the discussion](https://jabbr.net/#/rooms/orleans) on Jabbr.
+Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) using the GitHub issues, or in our Gitter room:
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dotnet/orleans?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge).
 
 Meetups will be over Google Hangouts, everyone is invited to participate.
 
