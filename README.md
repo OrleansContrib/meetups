@@ -8,6 +8,11 @@ Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) usi
 
 Meetups will be over Google Hangouts, everyone is invited to participate.
 
+---
+
+## Meetup 5: [Gabriel Kliot](https://github.com/gabikliot) on the new Orleans Streaming API
+
+When: Fri, 22nd May 2015, 19:00 - 20:00 GMT
 
 ---
 
