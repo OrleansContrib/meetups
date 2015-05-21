@@ -14,7 +14,7 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 When: Fri, 22nd May 2015, 19:00 - 20:00 GMT
 
-where: [Google Hangouts](https://plus.google.com/events/cf1dc6tge2qkmgngsqu45185e0k)
+where: [Google Hangouts](https://plus.google.com/events/crdjm977pqubv81lgdhqruoqal4)
 
 ---
 
