@@ -14,15 +14,13 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 When: Fri, 17th July 2015, 19:00 - 20:00 GMT
 
-Where: Google Hangouts
+Where: [Google Hangouts](https://plus.google.com/events/cs3l79nmho82ed8hvspap5les8s)
 
 ---
 
 ## Meetup 5: [Gabriel Kliot](https://github.com/gabikliot) on the new Orleans Streaming API
 
 When: Fri, 22nd May 2015, 19:00 - 20:00 GMT
-
-Where: [Google Hangouts](https://plus.google.com/events/crdjm977pqubv81lgdhqruoqal4)
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=eSepBlfY554)__
 
