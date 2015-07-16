@@ -12,9 +12,9 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ## Meetup 6: [Nehme Bilal](https://github.com/nehmebilal) on OrleansTemplates 
 
-When: Fri, 17th July 2015, 19:00 - 20:00 GMT
+When: TBC
 
-Where: [Google Hangouts](https://plus.google.com/events/cs3l79nmho82ed8hvspap5les8s)
+Where: TBC
 
 ---
 
