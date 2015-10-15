@@ -10,11 +10,11 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ---
 
-## Meetup 6: [Nehme Bilal](https://github.com/nehmebilal) on OrleansTemplates 
+## Meetup 6: MSR PhDs on Geo Distributed Orleans
 
-When: TBC
+When: Fri, 23rd October 2015, 19:00 - 20:00 GMT
 
-Where: TBC
+Where: [Google Hangouts](https://plus.google.com/events/ct8g8mk3th1q3n7g36t9tg6thm8)
 
 ---
 
