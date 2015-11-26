@@ -10,6 +10,14 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ---
 
+## Meetup 7: Christmas Special - [Yevhen Bobrov](https://github.com/yevhen) on [Orleankka](https://github.com/yevhen/Orleankka)
+
+When: Thursday, 17th December 2015, 19:00 - 20:00 GMT
+
+Where: Google Hangouts
+
+---
+
 ## Meetup 6: MSR PhDs on Geo Distributed Orleans
 
 When: Fri, 23rd October 2015, 19:00 - 20:00 GMT
