@@ -14,7 +14,7 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 When: Thursday, 17th December 2015, 19:00 - 20:00 GMT
 
-Where: [Google Hangouts](https://plus.google.com/events/cjueu5lucsrb58ebrmpj333f848?hl=en)
+__Watch the [Google Hangout](https://www.youtube.com/watch?v=FKL-PS8Q9ac)__
 
 ---
 
