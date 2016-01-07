@@ -12,7 +12,7 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ## Meetup 8: Orleans core team present the roadmap
 
-When: Thursday, 21st Janruary 2016, 19:00 - 20:00 GMT
+When: Thursday, 21st January 2016, 19:00 - 20:00 GMT
 
 Where: [Google Hangouts](https://plus.google.com/u/0/events/cdjfo4lb86ong99re802e5mfso8)
 
