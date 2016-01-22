@@ -14,7 +14,7 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 When: Thursday, 21st January 2016, 19:00 - 20:00 GMT
 
-Where: [Google Hangouts](https://plus.google.com/u/0/events/cdjfo4lb86ong99re802e5mfso8)
+__Watch the [Google Hangout](https://www.youtube.com/watch?v=4BiCyhvSOs4)__
 
 ---
 
