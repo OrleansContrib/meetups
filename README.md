@@ -8,6 +8,15 @@ Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) usi
 
 Meetups will be over Google Hangouts, everyone is invited to participate.
 
+
+---
+
+## Meetup 9:  @nehmebilal and @ReubenBond talk about deploying Orleans with YAMS and Service Fabric
+
+When: Friday, 26th February 2016, 19:00 - 20:00 GMT
+
+Where: [Google Hangouts](https://plus.google.com/events/csuf532na1775uie9ug6m5irjsc)
+
 ---
 
 ## Meetup 8: Orleans core team present the roadmap
