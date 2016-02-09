@@ -11,7 +11,7 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ---
 
-## Meetup 9:  @nehmebilal and @ReubenBond talk about deploying Orleans with YAMS and Service Fabric
+## Meetup 9:  [Nehme Bilal](https://github.com/nehmebilal) and [Reuben Bond](https://github.com/ReubenBond) talk about deploying Orleans with [YAMS](https://github.com/Microsoft/Yams) and [Service Fabric](https://azure.microsoft.com/en-gb/documentation/articles/service-fabric-overview/)
 
 When: Friday, 26th February 2016, 19:00 - 20:00 GMT
 
