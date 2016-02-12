@@ -19,6 +19,14 @@ Where: [Google Hangouts](https://plus.google.com/events/csuf532na1775uie9ug6m5ir
 
 ---
 
+## Meetup 8.5: Networking discussion hosted by [Jason Bragg](https://github.com/jason-bragg)
+
+When: Thursday, 11th February 2016, 20:00 - 21:00 GMT
+
+__Watch the [Skype for Business recording](https://youtu.be/F1Yoe88HEvg)__
+
+---
+
 ## Meetup 8: Orleans core team present the roadmap
 
 When: Thursday, 21st January 2016, 19:00 - 20:00 GMT
