@@ -8,8 +8,12 @@ Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) usi
 
 Meetups will be over Google Hangouts, everyone is invited to participate.
 
+Virtual Meetups calendar:
+[![Html](https://calendar.google.com/calendar/images/html.gif)](https://calendar.google.com/calendar/embed?src=rtb9s52eh8dlarv8ev44pr1m8o%40group.calendar.google.com&ctz=Etc%2FGMT),
+[![ICal](https://calendar.google.com/calendar/images/ical.gif)](https://calendar.google.com/calendar/ical/rtb9s52eh8dlarv8ev44pr1m8o%40group.calendar.google.com/public/basic.ics)
 
 ---
+
 
 ## Meetup 9:  [Nehme Bilal](https://github.com/nehmebilal) and [Reuben Bond](https://github.com/ReubenBond) talk about deploying Orleans with [YAMS](https://github.com/Microsoft/Yams) and [Service Fabric](https://azure.microsoft.com/en-gb/documentation/articles/service-fabric-overview/)
 
