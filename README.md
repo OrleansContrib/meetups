@@ -29,7 +29,7 @@ When: Thursday, 11th February 2016, 20:00 - 21:00 GMT
 
 __Watch the [Skype for Business recording](https://youtu.be/F1Yoe88HEvg)__
 
-__Download the [Presentation][None]__
+__Download the [Presentation][VM-8.5]__
 
 ---
 
@@ -79,7 +79,7 @@ When: Wed, 15th April 2015, 19:00 - 20:00 GMT
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=56Xz68lTB9c)__
 
-__Download the [Presentation][None]__
+__Download the [Presentation][VM-4]__
 
 ---
 
@@ -115,7 +115,8 @@ __Download the [Presentation][None]__
 
 [None]: https://www.google.com/?q=sorry%2C+this+presentation+is+not+found
 [VM-3]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/(VM03)%20Uniform%20Api%20is%2042.pptx?raw=true
+[VM-4]: http://dotnet.github.io/orleans/Presentations/VM-4%20-%20Using%20Orleans%20at%20FreeBay.pptx
 [VM-5]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/Orleans%20Streaming%20-%20Virtual%20meetup%20-%205-22-2015.pptx?raw=true
 [VM-7]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/(VM07)%20Orleankka%20Functional%20API%20for%20Orleans.pptx?raw=true 
 [VM-8]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/Orleans%20Roadmap%201-21-2016.pptx?raw=true
-
+[VM-8.5]: http://dotnet.github.io/orleans/Presentations/VM-8.5%20-%20Orleans%20Networking.pptx
