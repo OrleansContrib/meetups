@@ -115,7 +115,9 @@ __Download the [Presentation][None]__
 
 [None]: https://www.google.com/?q=sorry%2C+this+presentation+is+not+found
 [VM-3]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/(VM03)%20Uniform%20Api%20is%2042.pptx?raw=true
+[VM-4]: http://dotnet.github.io/orleans/Presentations/VM-4 - Using Orleans at FreeBay.pptx
 [VM-5]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/Orleans%20Streaming%20-%20Virtual%20meetup%20-%205-22-2015.pptx?raw=true
 [VM-7]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/(VM07)%20Orleankka%20Functional%20API%20for%20Orleans.pptx?raw=true 
 [VM-8]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/Orleans%20Roadmap%201-21-2016.pptx?raw=true
+[VM-8.5]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/VM-8.5%20-%20Orleans%20Networking.pptx?raw=true
 
