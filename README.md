@@ -29,6 +29,8 @@ When: Thursday, 11th February 2016, 20:00 - 21:00 GMT
 
 __Watch the [Skype for Business recording](https://youtu.be/F1Yoe88HEvg)__
 
+__Download the [Presentation][None]__
+
 ---
 
 ## Meetup 8: Orleans core team present the roadmap
@@ -36,6 +38,8 @@ __Watch the [Skype for Business recording](https://youtu.be/F1Yoe88HEvg)__
 When: Thursday, 21st January 2016, 19:00 - 20:00 GMT
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=4BiCyhvSOs4)__
+
+__Download the [Presentation][VM-8]__
 
 ---
 
@@ -45,6 +49,8 @@ When: Thursday, 17th December 2015, 19:00 - 20:00 GMT
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=FKL-PS8Q9ac)__
 
+__Download the [Presentation][VM-7]__
+
 ---
 
 ## Meetup 6: MSR PhDs on Geo Distributed Orleans
@@ -52,6 +58,8 @@ __Watch the [Google Hangout](https://www.youtube.com/watch?v=FKL-PS8Q9ac)__
 When: Fri, 23rd October 2015, 19:00 - 20:00 GMT
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=fOl8ophHtug)__
+
+__Download the [Presentation][None]__
 
 ---
 
@@ -61,6 +69,8 @@ When: Fri, 22nd May 2015, 19:00 - 20:00 GMT
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=eSepBlfY554)__
 
+__Download the [Presentation][VM-5]__
+
 ---
 
 ## Meetup 4: [Reuben Bond](https://github.com/ReubenBond) on using Orleans at FreeBay
@@ -68,6 +78,8 @@ __Watch the [Google Hangout](https://www.youtube.com/watch?v=eSepBlfY554)__
 When: Wed, 15th April 2015, 19:00 - 20:00 GMT
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=56Xz68lTB9c)__
+
+__Download the [Presentation][None]__
 
 ---
 
@@ -77,6 +89,8 @@ When: Fri, 6th March 2015, 19:00 - 20:00 GMT (UTC)
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=07Up88bpl20)__
 
+__Download the [Presentation][VM-3]__
+
 ---
 
 ## Meetup 2: Orleans team live Q&A and roadmap
@@ -84,6 +98,8 @@ __Watch the [Google Hangout](https://www.youtube.com/watch?v=07Up88bpl20)__
 When: Mon, 12th January 2015, 19:00 - 20:00 GMT (UTC)
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=D4kJKSFfNjI)__
+
+__Download the [Presentation][None]__
 
 ---
 
@@ -93,4 +109,13 @@ When: Thu, 18th December 2014, 12:00 PM - 1:00 PM GMT (UTC)
 
 __Watch the [Google Hangout](http://www.youtube.com/watch?v=6COQ8XzloPg)__
 
+__Download the [Presentation][None]__
+
 ---
+
+[None]: https://www.google.com/?q=sorry%2C+this+presentation+is+not+found
+[VM-3]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/(VM03)%20Uniform%20Api%20is%2042.pptx?raw=true
+[VM-5]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/Orleans%20Streaming%20-%20Virtual%20meetup%20-%205-22-2015.pptx?raw=true
+[VM-7]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/(VM07)%20Orleankka%20Functional%20API%20for%20Orleans.pptx?raw=true 
+[VM-8]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/Orleans%20Roadmap%201-21-2016.pptx?raw=true
+
