@@ -19,7 +19,7 @@ Virtual Meetups calendar:
 
 When: Friday, 26th February 2016, 19:00 - 20:00 GMT
 
-__Watch the [Google Hangouts](https://youtu.be/w__D7gnqeZ0))__
+__Watch the [Google Hangout](https://youtu.be/w__D7gnqeZ0)__
 
 ---
 
