@@ -16,7 +16,7 @@ Virtual Meetups calendar:
 
 When: Thursday, 25th August 2016, 19:00 - 20:00 GMT
 
-Where: Skype for busines
+Where: [Skype for busines](https://meet.lync.com/activewebsolutions/richard.astbury/R9419L91)
 
 ---
 
