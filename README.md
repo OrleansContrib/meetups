@@ -18,6 +18,8 @@ When: Thursday, 25th August 2016, 19:00 - 20:00 GMT
 
 __Watch the [Skype Call](https://youtu.be/_SbIbYkY88o)__
 
+__Download the [Presentation][VM-10]__
+
 ---
 
 ## Meetup 9:  [Nehme Bilal](https://github.com/nehmebilal) and [Reuben Bond](https://github.com/ReubenBond) talk about deploying Orleans with [YAMS](https://github.com/Microsoft/Yams) and [Service Fabric](https://azure.microsoft.com/en-gb/documentation/articles/service-fabric-overview/)
@@ -126,3 +128,4 @@ __Download the [Presentation][None]__
 [VM-7]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/(VM07)%20Orleankka%20Functional%20API%20for%20Orleans.pptx?raw=true 
 [VM-8]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/Orleans%20Roadmap%201-21-2016.pptx?raw=true
 [VM-8.5]: http://dotnet.github.io/orleans/Presentations/VM-8.5%20-%20Orleans%20Networking.pptx
+[VM-10]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/VM-10%20-%20Orleans%202.0%20plan.pptx?raw=true
