@@ -16,7 +16,7 @@ Virtual Meetups calendar:
 
 When: Thursday, 25th August 2016, 19:00 - 20:00 GMT
 
-__Watch the [Skype Call](https://www.youtube.com/watch?v=_SbIbYkY88o&feature=youtu.be)__
+__Watch the [Skype Call](https://youtu.be/_SbIbYkY88o)__
 
 ---
 
