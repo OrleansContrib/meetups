@@ -16,7 +16,7 @@ Virtual Meetups calendar:
 
 When: __Thursday, 13th October 2016, 20:00 - 21:00 BST__ [check your local time](http://www.worldtimebuddy.com/?qm=1&lid=5809844,2643743,2158177&h=2643743&date=2016-10-13&sln=20-21)
 
-Where: __[Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/05BRMC2S)__
+Where: __[Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/MGM0BJ1N)__
 
 Note, this is one hour later than usual to make it easier for everyone to join.
 
