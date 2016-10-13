@@ -14,11 +14,9 @@ Virtual Meetups calendar:
 
 ## Meetup 11: A monitoring and visualisation show with [Richard Astbury](https://github.com/richorama), [Dan Vanderboom](https://github.com/danvanderboom), [Mike Hardman](https://github.com/MikeHardman) and [Roger Creyke](https://github.com/creyke)
 
-When: __Thursday, 13th October 2016, 20:00 - 21:00 BST__ [check your local time](http://www.worldtimebuddy.com/?qm=1&lid=5809844,2643743,2158177&h=2643743&date=2016-10-13&sln=20-21)
+When: Thursday, 13th October 2016, 20:00 - 21:00 BST
 
-Where: __[Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/MGM0BJ1N)__
-
-Note, this is one hour later than usual to make it easier for everyone to join.
+__Watch the [Skype Call](https://youtu.be/WiAX_eGEuyo)__
 
 ## Meetup 10: The roadmap to Orleans 2.0 with the core team
 
