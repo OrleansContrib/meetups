@@ -12,7 +12,7 @@ Virtual Meetups calendar:
 [![Html](https://calendar.google.com/calendar/images/html.gif)](https://calendar.google.com/calendar/embed?src=rtb9s52eh8dlarv8ev44pr1m8o%40group.calendar.google.com&ctz=Etc%2FGMT),
 [![ICal](https://calendar.google.com/calendar/images/ical.gif)](https://calendar.google.com/calendar/ical/rtb9s52eh8dlarv8ev44pr1m8o%40group.calendar.google.com/public/basic.ics)
 
-## Meetup 11: A monitoring and visualisation show with [Richard Astbury](https://github.com/richorama), [Dan Vanderboom](https://github.com/danvanderboom), [Mike Hardman](MikeHardman) and [Roger Creyke](https://github.com/creyke)
+## Meetup 11: A monitoring and visualisation show with [Richard Astbury](https://github.com/richorama), [Dan Vanderboom](https://github.com/danvanderboom), [Mike Hardman](https://github.com/MikeHardman) and [Roger Creyke](https://github.com/creyke)
 
 When: __Thursday, 13th October 2016, 20:00 - 21:00 BST__ [check your local time](http://www.worldtimebuddy.com/?qm=1&lid=5809844,2643743,2158177&h=2643743&date=2016-10-13&sln=20-21)
 
