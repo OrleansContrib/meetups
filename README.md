@@ -14,7 +14,7 @@ Virtual Meetups calendar:
 
 ## Meetup 12: Deploying Orleans with [Jakub Konecki](https://github.com/jkonecki) and the Orleans Core Team
 
-When: Thursday, 8th December 2016, 20:00 - 21:00 GMT
+When: [Thursday, 8th December 2016, 20:00 - 21:00 GMT](http://www.worldtimebuddy.com/?qm=1&lid=2643743,5809844,2158177&h=2643743&date=2016-12-8&sln=20-21)
 
 Where: [Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/L65YV64V)
 
