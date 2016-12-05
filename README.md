@@ -8,10 +8,6 @@ Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) usi
 
 Meetups will be over Google Hangouts, everyone is invited to participate.
 
-Virtual Meetups calendar:
-[![Html](https://calendar.google.com/calendar/images/html.gif)](https://calendar.google.com/calendar/embed?src=rtb9s52eh8dlarv8ev44pr1m8o%40group.calendar.google.com&ctz=Etc%2FGMT),
-[![ICal](https://calendar.google.com/calendar/images/ical.gif)](https://calendar.google.com/calendar/ical/rtb9s52eh8dlarv8ev44pr1m8o%40group.calendar.google.com/public/basic.ics)
-
 ## Meetup 12: Deploying Orleans with [Jakub Konecki](https://github.com/jkonecki) and the Orleans Core Team
 
 When: [Thursday, 8th December 2016, 20:00 - 21:00 GMT](http://www.worldtimebuddy.com/?qm=1&lid=2643743,5809844,2158177&h=2643743&date=2016-12-8&sln=20-21)
