@@ -12,6 +12,12 @@ Virtual Meetups calendar:
 [![Html](https://calendar.google.com/calendar/images/html.gif)](https://calendar.google.com/calendar/embed?src=rtb9s52eh8dlarv8ev44pr1m8o%40group.calendar.google.com&ctz=Etc%2FGMT),
 [![ICal](https://calendar.google.com/calendar/images/ical.gif)](https://calendar.google.com/calendar/ical/rtb9s52eh8dlarv8ev44pr1m8o%40group.calendar.google.com/public/basic.ics)
 
+## Meetup 12: Deploying Orleans with [Jakub Konecki](https://github.com/jkonecki) and the Orleans Core Team
+
+When: Thursday, 8th December 2016, 20:00 - 21:00 GMT
+
+Where: [Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/L65YV64V)
+
 ## Meetup 11: A monitoring and visualisation show with [Richard Astbury](https://github.com/richorama), [Dan Vanderboom](https://github.com/danvanderboom) and [Roger Creyke](https://github.com/creyke)
 
 When: Thursday, 13th October 2016, 20:00 - 21:00 BST
