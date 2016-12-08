@@ -12,7 +12,7 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 When: [Thursday, 8th December 2016, 20:00 - 21:00 GMT](http://www.worldtimebuddy.com/?qm=1&lid=2643743,5809844,2158177&h=2643743&date=2016-12-8&sln=20-21)
 
-Where: [Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/L65YV64V)
+Where: [Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/YR5YL7GT)
 
 ## Meetup 11: A monitoring and visualisation show with [Richard Astbury](https://github.com/richorama), [Dan Vanderboom](https://github.com/danvanderboom) and [Roger Creyke](https://github.com/creyke)
 
