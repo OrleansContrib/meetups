@@ -8,11 +8,11 @@ Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) usi
 
 Meetups will be over Google Hangouts, everyone is invited to participate.
 
-## Meetup 12: Deploying Orleans with [Jakub Konecki](https://github.com/jkonecki) and the Orleans Core Team
+## Meetup 12: Deploying Orleans with [Jakub Konecki](https://github.com/jkonecki) 
 
-When: [Thursday, 8th December 2016, 20:00 - 21:00 GMT](http://www.worldtimebuddy.com/?qm=1&lid=2643743,5809844,2158177&h=2643743&date=2016-12-8&sln=20-21)
+When: [Thursday, 8th December 2016, 20:00 - 21:00 GMT]
 
-Where: [Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/YR5YL7GT)
+__Watch the [Skype Call](https://youtu.be/JrmHfbZH11M)__
 
 ## Meetup 11: A monitoring and visualisation show with [Richard Astbury](https://github.com/richorama), [Dan Vanderboom](https://github.com/danvanderboom) and [Roger Creyke](https://github.com/creyke)
 
