@@ -14,6 +14,8 @@ When: [Thursday, 8th December 2016, 20:00 - 21:00 GMT]
 
 __Watch the [Skype Call](https://youtu.be/JrmHfbZH11M)__
 
+__Download the [Presentation](VM-12)__
+
 ## Meetup 11: A monitoring and visualisation show with [Richard Astbury](https://github.com/richorama), [Dan Vanderboom](https://github.com/danvanderboom) and [Roger Creyke](https://github.com/creyke)
 
 When: Thursday, 13th October 2016, 20:00 - 21:00 BST
@@ -137,3 +139,4 @@ __Download the [Presentation][None]__
 [VM-8]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/Orleans%20Roadmap%201-21-2016.pptx?raw=true
 [VM-8.5]: http://dotnet.github.io/orleans/Presentations/VM-8.5%20-%20Orleans%20Networking.pptx
 [VM-10]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/VM-10%20-%20Orleans%202.0%20plan.pptx?raw=true
+[VM-12]: https://github.com/dotnet/orleans/raw/gh-pages/Presentations/VM-12%20Orleans-YAMS.pdf
