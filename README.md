@@ -14,7 +14,7 @@ When: [Thursday, 8th December 2016, 20:00 - 21:00 GMT]
 
 __Watch the [Skype Call](https://youtu.be/JrmHfbZH11M)__
 
-__Download the [Presentation](VM-12)__
+__Download the [Presentation][VM-12]__
 
 ## Meetup 11: A monitoring and visualisation show with [Richard Astbury](https://github.com/richorama), [Dan Vanderboom](https://github.com/danvanderboom) and [Roger Creyke](https://github.com/creyke)
 
