@@ -10,9 +10,9 @@ Meetups will be over Google Hangouts, everyone is invited to participate.
 
 ## Meetup 13: Upgrading Orleans Applications with [Sergey Bykov](https://github.com/sergeybykov) and team
 
-When: [Wednesday 8th February 2017, 20:00 - 21:00 GMT](http://www.worldtimebuddy.com/?qm=1&lid=2643743,5809844,2158177&h=2643743&date=2017-2-8&sln=20-21)
+When: Wednesday 8th February 2017, 20:00 - 21:00 GMT
 
-Where:  [Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/1846PDM9)
+__Watch the [Skype Call](https://youtu.be/_5hWNVccKeQ)__
 
 ## Meetup 12: Deploying Orleans with [Jakub Konecki](https://github.com/jkonecki) 
 
