@@ -4,15 +4,19 @@ A repository to organise virtual meetups to discuss Orleans and other distribute
 
 Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) using the GitHub issues, or in our Gitter room:
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dotnet/orleans?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge).
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dotnet/orleans?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Meetups will be over Google Hangouts, everyone is invited to participate.
+Meetups are held on a Skype for Business call, everyone is invited to participate.
 
 ## Meetup 13: Upgrading Orleans Applications with [Sergey Bykov](https://github.com/sergeybykov) and team
 
 When: Wednesday 8th February 2017, 20:00 - 21:00 GMT
 
 __Watch the [Skype Call](https://youtu.be/_5hWNVccKeQ)__
+
+__Download the [Presentation][VM-13]__
+
+---
 
 ## Meetup 12: Deploying Orleans with [Jakub Konecki](https://github.com/jkonecki) 
 
@@ -22,11 +26,15 @@ __Watch the [Skype Call](https://youtu.be/JrmHfbZH11M)__
 
 __Download the [Presentation][VM-12]__
 
+---
+
 ## Meetup 11: A monitoring and visualisation show with [Richard Astbury](https://github.com/richorama), [Dan Vanderboom](https://github.com/danvanderboom) and [Roger Creyke](https://github.com/creyke)
 
 When: Thursday, 13th October 2016, 20:00 - 21:00 BST
 
 __Watch the [Skype Call](https://youtu.be/WiAX_eGEuyo)__
+
+---
 
 ## Meetup 10: The roadmap to Orleans 2.0 with the core team
 
@@ -122,8 +130,6 @@ When: Mon, 12th January 2015, 19:00 - 20:00 GMT (UTC)
 
 __Watch the [Google Hangout](https://www.youtube.com/watch?v=D4kJKSFfNjI)__
 
-__Download the [Presentation][None]__
-
 ---
 
 ## Meetup 1: [Jakub Konecki](https://github.com/jkonecki) on Event Sourced Grains
@@ -131,8 +137,6 @@ __Download the [Presentation][None]__
 When: Thu, 18th December 2014, 12:00 PM - 1:00 PM GMT (UTC)
 
 __Watch the [Google Hangout](http://www.youtube.com/watch?v=6COQ8XzloPg)__
-
-__Download the [Presentation][None]__
 
 ---
 
@@ -146,3 +150,4 @@ __Download the [Presentation][None]__
 [VM-8.5]: http://dotnet.github.io/orleans/Presentations/VM-8.5%20-%20Orleans%20Networking.pptx
 [VM-10]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/VM-10%20-%20Orleans%202.0%20plan.pptx?raw=true
 [VM-12]: https://github.com/dotnet/orleans/raw/gh-pages/Presentations/VM-12%20Orleans-YAMS.pdf
+[VM-13]: https://github.com/dotnet/orleans/raw/gh-pages/Presentations/VM-13%20-%20Orleans%20%26%20versioning.pptx
