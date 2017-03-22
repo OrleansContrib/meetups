@@ -8,20 +8,13 @@ Please [suggest a topic](https://github.com/OrleansContrib/meetups/issues/1) usi
 
 Meetups are held on a Skype for Business call, everyone is invited to participate.
 
-<!--
-## Meetup 14: Orleans FSM with [John Azariah](https://github.com/johnazariah)
-
-When: __Wednesday 8th March 2017, 20:00 - 21:00 GMT__ - [lookup time in your timezone](http://www.worldtimebuddy.com/?qm=1&lid=2643743,5809844,2158177&h=2643743&date=2017-3-8&sln=20-21)
-
-Where: Skype for Business (link to be shared later)
--->
 ---
 
 ## Meetup 14: Orleans FSM with [John Azariah](https://github.com/johnazariah)
 
 When: __Wednesday 22nd March 2017, 20:00 - 21:00 GMT__ - [lookup time in your timezone](https://www.worldtimebuddy.com/?qm=1&lid=2643743,5809844,2158177&h=2643743&date=2017-3-22&sln=20-21)
 
-Where: Skype for Business (link to be shared later)
+Where: __[Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/0DZC7C1P)__
 
 ---
 
