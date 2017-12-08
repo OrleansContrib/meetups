@@ -15,7 +15,7 @@ Meetups are held on a Skype for Business call, everyone is invited to participat
 
 When: __Wednesday 13th December 2017, 20:00 - 21:00 GMT__ - [lookup time in your timezone](https://www.worldtimebuddy.com/?qm=1&lid=2643743,2158177,5808079&h=2643743&date=2017-12-13&sln=20-21)
 
-Where: Skype for Business (link to be shared later)
+Where: __[Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/4L4F4KH2)__
 
 ---
 
