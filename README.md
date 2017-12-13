@@ -13,7 +13,7 @@ Meetups are held on a Skype for Business call, everyone is invited to participat
 
 ## Meetup 15: Orleans 2.0 with the core team
 
-When: __Wednesday 13th December 2017, 20:00 - 21:00 GMT__ - [lookup time in your timezone](https://www.worldtimebuddy.com/?qm=1&lid=2643743,2158177,5808079&h=2643743&date=2017-12-13&sln=20-21)
+When: Wednesday 13th December 2017, 20:00 - 21:00 GMT
 
 __Watch the [Skype Call](https://youtu.be/d3ufDsZcW4k)__
 
