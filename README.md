@@ -15,8 +15,8 @@ Meetups are held on a Skype for Business call, everyone is invited to participat
 
 When: __Wednesday 13th December 2017, 20:00 - 21:00 GMT__ - [lookup time in your timezone](https://www.worldtimebuddy.com/?qm=1&lid=2643743,2158177,5808079&h=2643743&date=2017-12-13&sln=20-21)
 
-Where: __[Skype for Business](https://meet.lync.com/activewebsolutions/richard.astbury/4L4F4KH2)__
-
+__Watch the [Skype Call](https://youtu.be/d3ufDsZcW4k)__
+__Download the [Presentation][VM-15]__
 ---
 
 ## Meetup 14: Orleans FSM with [John Azariah](https://github.com/johnazariah)
@@ -170,3 +170,4 @@ __Watch the [Google Hangout](http://www.youtube.com/watch?v=6COQ8XzloPg)__
 [VM-10]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/VM-10%20-%20Orleans%202.0%20plan.pptx?raw=true
 [VM-12]: https://github.com/dotnet/orleans/raw/gh-pages/Presentations/VM-12%20Orleans-YAMS.pdf
 [VM-13]: https://github.com/dotnet/orleans/raw/gh-pages/Presentations/VM-13%20-%20Orleans%20%26%20versioning.pptx
+[VM-15]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/VM-15%20-%20Orleans%202.0.pdf
