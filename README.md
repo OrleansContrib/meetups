@@ -16,6 +16,7 @@ When: Wednesday 22th January 2020, 17:00 - 18:00 GMT
 
 __Join the [Teams Call](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRjMGRmZmUtZmY0ZC00ZWVkLWExMmUtNGNmYzcxYmYxZWUx%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2236cbaa11-4e11-4474-bebf-cdafcbe8e2a3%22%7d)__
 
+__Download the [Presentation][VM-16]__
 ---
 
 ## Meetup 15: Orleans 2.0 with the core team
@@ -180,3 +181,4 @@ __Watch the [Google Hangout](http://www.youtube.com/watch?v=6COQ8XzloPg)__
 [VM-12]: https://github.com/dotnet/orleans/raw/gh-pages/Presentations/VM-12%20Orleans-YAMS.pdf
 [VM-13]: https://github.com/dotnet/orleans/raw/gh-pages/Presentations/VM-13%20-%20Orleans%20%26%20versioning.pptx
 [VM-15]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/VM-15%20-%20Orleans%202.0.pdf
+[VM-16]: https://github.com/dotnet/orleans/blob/gh-pages/Presentations/VM-16%20-%20Orleans%204.0%20-%20Back%20To%20Basics.pptx
