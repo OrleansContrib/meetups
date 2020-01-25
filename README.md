@@ -14,7 +14,7 @@ Meetups are held on a Skype for Business call, everyone is invited to participat
 
 When: Wednesday 22th January 2020, 17:00 - 18:00 GMT
 
-__Join the [Teams Call](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRjMGRmZmUtZmY0ZC00ZWVkLWExMmUtNGNmYzcxYmYxZWUx%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2236cbaa11-4e11-4474-bebf-cdafcbe8e2a3%22%7d)__
+__Watch the [Teams call](https://www.youtube.com/watch?v=an87dzgAMR8)__
 
 ---
 
