@@ -17,6 +17,7 @@ When: Wednesday 22th January 2020, 17:00 - 18:00 GMT
 __Watch the [Teams call](https://www.youtube.com/watch?v=an87dzgAMR8)__
 
 __Download the [Presentation][VM-16]__
+
 ---
 
 ## Meetup 15: Orleans 2.0 with the core team
