@@ -10,6 +10,14 @@ Meetups are held on a Skype for Business call, everyone is invited to participat
 
 ---
 
+## Meetup 17: Orleans and K8s with [Vincent Hoogendoorn](https://github.com/VincentH-Net)
+
+When: Tuesday 25th May 2021, 16:00 - 17:00 GMT - [see all timezones](https://www.worldtimebuddy.com/?qm=1&lid=2643743,2759794,5808079&h=2643743&date=2021-5-25&sln=16-17&hf=1)
+
+Where: [Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2NjMTJkMzQtYTM5My00MmUxLWFkMGMtZWExNDdiYzg2ZGNm%40thread.v2/0?context=%7b%22Tid%22%3a%223efb0cb7-2875-4ee1-ac6c-6d4c7ebc627b%22%2c%22Oid%22%3a%222d285f2c-e3ab-4c6a-ba2a-88fb4fe6b9ad%22%7d)
+
+---
+
 ## Meetup 16: Back to basics
 
 When: Wednesday 22th January 2020, 17:00 - 18:00 GMT
