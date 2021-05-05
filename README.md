@@ -10,7 +10,7 @@ Meetups are held on a Skype for Business call, everyone is invited to participat
 
 ---
 
-## Meetup 17: Orleans and K8s with [Vincent Hoogendoorn](https://github.com/VincentH-Net)
+## Meetup 17: Simplify a K8s microservices architecture with Orleans - [Vincent Hoogendoorn](https://github.com/VincentH-Net)
 
 __When: Tuesday 25th May 2021, 16:00 - 17:00 GMT__ - [see all timezones](https://www.worldtimebuddy.com/?qm=1&lid=2643743,2759794,5808079&h=2643743&date=2021-5-25&sln=16-17&hf=1)
 
