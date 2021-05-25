@@ -14,7 +14,7 @@ Meetups are held on a Skype for Business call, everyone is invited to participat
 
 When: Tuesday 25th May 2021, 16:00 - 17:00 GMT
 
-__Watch the [Team Meeting](https://youtu.be/dWwxKHclco8)__
+__Watch the [Teams Meeting](https://youtu.be/dWwxKHclco8)__
 
 ---
 
